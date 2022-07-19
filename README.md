@@ -1,4 +1,9 @@
 ### Hi there 👋. My name is Nabil.
+I am a Telecoms & Software Engineer with a deep interest in Machine Learning and Artificial Intelligence.
+
+## Skills and Expertise
+Programming Languages: Python, C
+
 
 <!--
 **nabil2i/nabil2i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
