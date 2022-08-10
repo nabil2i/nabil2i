@@ -4,7 +4,7 @@ I am a Telecoms & Software Engineer with a deep interest in Machine Learning and
 ## Skills and Expertise
 Programming Languages: Python, C, SQL
 
-Frameworks: Git,, Vagrant, Wordpress
+Frameworks: Git, Vagrant, Wordpress
 
 
 <!--
