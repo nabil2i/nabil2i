@@ -2,7 +2,7 @@
 I am a Telecoms & Software Engineer with a deep interest in Machine Learning and Artificial Intelligence.
 
 ## Skills and Expertise
-Programming Languages: Python, C
+Programming Languages: Python, C, SQL
 
 Frameworks: Git,, Vagrant, Wordpress
 
