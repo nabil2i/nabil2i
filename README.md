@@ -6,6 +6,8 @@ Programming Languages: Python, C, SQL, HTML/CSS, Javascript
 
 Frameworks: Git, Vagrant, HAProxy, Nginx, Docker Wordpress
 
+Networks: Mobile and Wireless Networks
+
 
 <!--
 **nabil2i/nabil2i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
