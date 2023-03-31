@@ -1,4 +1,4 @@
-### Hi there 👋. My name is Nabil.
+### Hi there 👋! My name is Nabil.
 I am a Telecoms & Software Engineer with a deep interest in Machine/Deep Learning and Artificial Intelligence. I'm excited about providing appropriate, easy and sustainable solutions to concrete issues in the world using technology.
 
 ## Skills and Expertise
