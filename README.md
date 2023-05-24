@@ -4,7 +4,7 @@ I am a Telecoms & Software Engineer with a deep interest in Machine/Deep Learnin
 ## Skills and Expertise
 Programming Languages: Python, C, SQL, HTML/CSS, Javascript
 
-Frameworks & Tools: Django, Flask, Bootsrap, Vue.js, NoSQL, Git, Docker, Vagrant, HAProxy, Nginx, Wordpress
+Frameworks & Tools: Django, Flask, Node.js, Express, Bootsrap, Vue.js, MySQL, NoSQL, Git, Docker, Vagrant, HAProxy, Nginx, Wordpress
   
 Networks: Mobile, Wireless, Computer Networks
 
