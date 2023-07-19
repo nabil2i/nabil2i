@@ -1,10 +1,10 @@
 ### Hi there 👋! My name is Nabil.
-I am a Telecoms & Software Engineer with a deep interest in Machine/Deep Learning and Artificial Intelligence. I'm excited about providing appropriate, easy and sustainable solutions to concrete issues in the world using technology.
+I am a Software & Telecoms Engineer. I'm excited about providing appropriate, easy and sustainable solutions to concrete issues in the world using technology.
 
 ## Skills and Expertise
 Programming Languages: Python, C, SQL, HTML/CSS, Javascript
 
-Frameworks & Tools: Django, Flask, Node.js, Express, Bootsrap, Vue.js, MySQL, NoSQL, Git, Docker, Vagrant, HAProxy, Nginx, Wordpress
+Frameworks & Tools: Django, Flask, Node.js, Express, React.js Vue.js, Bootsrap, Chakr UI, MySQL, NoSQL (MongoDB), Git, Docker, Vagrant, HAProxy, Nginx, Wordpress
   
 Networks: Mobile, Wireless, Computer Networks
 
