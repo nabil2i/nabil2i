@@ -4,7 +4,7 @@ I am a Software & Telecoms Engineer. I'm excited about providing appropriate, ea
 ## Skills and Expertise
 Programming Languages: Python, C, Java, SQL, HTML/CSS, Javascript
 
-Frameworks & Tools: Django, Flask, Node.js, Express, React.js Vue.js, Bootsrap, Chakra UI, MySQL, NoSQL (MongoDB), Git, Docker, Vagrant, HAProxy, Nginx, Wordpress
+Frameworks & Tools: Django, Flask, Node.js, Express, React.js, Vue.js, Bootsrap, Chakra UI, MySQL, NoSQL (MongoDB), Git, Docker, Vagrant, HAProxy, Nginx, Wordpress
   
 Networks: Mobile, Wireless, Computer Networks
 
