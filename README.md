@@ -1,12 +1,12 @@
 ### Hi there 👋! My name is Nabil.
-I am a Telecoms& Software Engineer. I'm excited about providing appropriate, easy and sustainable solutions to concrete issues in the world using technology.
+I am a Telecoms & Software Engineer. I'm excited about providing appropriate, easy and sustainable solutions to concrete issues in the world using technology.
 
 ## Skills and Expertise
+Networks: Mobile, Wireless, Computer Networks
+
 Programming Languages: Python, C, Java, SQL, HTML/CSS, Javascript
 
 Frameworks & Tools: Django, Flask, Node.js, Express, Next.js, React.js, Vue.js, Bootsrap, Chakra UI, MySQL, NoSQL (MongoDB), Git, Docker, Vagrant, HAProxy, Nginx, Wordpress
-  
-Networks: Mobile, Wireless, Computer Networks
 
 
 <!--
