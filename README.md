@@ -1,5 +1,5 @@
 ### Hi there 👋! My name is Nabil.
-I am a Software & Telecoms Engineer. I'm excited about providing appropriate, easy and sustainable solutions to concrete issues in the world using technology.
+I am a Telecoms& Software Engineer. I'm excited about providing appropriate, easy and sustainable solutions to concrete issues in the world using technology.
 
 ## Skills and Expertise
 Programming Languages: Python, C, Java, SQL, HTML/CSS, Javascript
