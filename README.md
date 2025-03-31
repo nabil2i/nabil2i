@@ -1,4 +1,4 @@
-<h1>Hi there 👋! My name is Nabil.<br/><a href="https://github.com/nabil2i">Telecoms & Software Engineer, Aspiring Data Scientist & Machine Learning Engineer, Author, Poet, Content Creator.</a></h1>
+<h1>Hi there 👋! My name is Nabil.<br/><a href="https://github.com/nabil2i">Telecoms & Software Engineer, Aspiring Data Scientist-Machine Learning Engineer, Author, Poet</a></h1>
 
 I'm excited about providing tailored, easy and sustainable solutions to real-world problems using technology
 
@@ -11,18 +11,20 @@ I'm excited about providing tailored, easy and sustainable solutions to real-wor
 - <b>Programming Languages: </b>
   - Python, C, Java, SQL, HTML/CSS, Javascript
 - <b>Frameworks & Tools: </b>
-  - Django, Flask, Node.js, Express, Next.js, React.js, Vue.js, Bootsrap, Chakra UI, MySQL, NoSQL (MongoDB), Git, Docker, Vagrant, HAProxy, Nginx, Wordpress
+  - Django, Flask, Node.js, Express, Next.js, React.js, Vue.js, Bootsrap, Chakra UI, Material UI, MySQL, PostgreSQL NoSQL (MongoDB), Git, Docker, Vagrant, AWS, HAProxy, Nginx, Wordpress
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Full Stack Web App (React, NodeJS, Vue)</b>
+- <b>Full Stack Web App</b>
   - [<b>NetXVision:</b> <i>fullstack web application with node.js and react.js to automate Network Operations Center incident management tasks</i>](https://github.com/nabil2i/netxvision). 
   - [<b>NC Blog:</b> <i>Blog website with node.js in the backend connected to a mongodb database, and react.js in the frontend</i>](https://github.com/nabil2i/ncblog). 
   - [<b>Issue-Tracker:</b> <i>Next.js fullstack web application for tracking issues</i>](https://github.com/nabil2i/issue-tracker)
-  - [<b>RecordPlus:</b> <i>Django backend application to host and retrieve videos recorded by a chrome screen recorder extension</i>](https://github.com/nabil2i/record-plus)
   - [<b>NabShop:</b> <i>fullstack ecommerce website, built with python django and vue.js, that allows people to purchase books </i>](https://github.com/nabil2i/nabshop)
   - [<b>African Rapid Care:</b> <i>fullstack appointment website built with python flask where patients in need of health care can quickly find an available and appropriate physician in their vicinity.</I>](https://nabil2i.github.io/arc-page)
 
+- <b>Backend App</b>
+    - [<b>RecordPlus:</b> <i>Django backend application to host and retrieve videos recorded by a chrome screen recorder extension</i>](https://github.com/nabil2i/record-plus)
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -31,9 +33,9 @@ I'm excited about providing tailored, easy and sustainable solutions to real-wor
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/nabisakaisensei
-[youtube]: https://www.youtube.com/c/thenabvserse
+[youtube]: https://www.youtube.com/@TheNabVerse
 [instagram]: https://www.instagram.com/nabisakaisensei/
-[linkedin]: https://linkedin.com/in/nabilafo
+[linkedin]: https://linkedin.com/in/nabilaffo
 
 
 
