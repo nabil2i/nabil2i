@@ -16,7 +16,7 @@ I'm excited about providing tailored, easy and sustainable solutions to real-wor
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web App</b>
-  - [<b>NetXVision:</b> <i>fullstack web application with node.js and react.js to automate Network Operations Center incident management tasks</i>](https://github.com/nabil2i/netxvision). 
+  - [<b>NetXVision:</b> <i>fullstack web application with node.js and react.js to automate Network Operations Center incident management tasks</i>](https://github.com/alhikmahinnovations/netxvision). 
   - [<b>NC Blog:</b> <i>Blog website with node.js in the backend connected to a mongodb database, and react.js in the frontend</i>](https://github.com/nabil2i/ncblog). 
   - [<b>Issue-Tracker:</b> <i>Next.js fullstack web application for tracking issues</i>](https://github.com/nabil2i/issue-tracker)
   - [<b>NabShop:</b> <i>fullstack ecommerce website, built with python django and vue.js, that allows people to purchase books </i>](https://github.com/nabil2i/nabshop)
